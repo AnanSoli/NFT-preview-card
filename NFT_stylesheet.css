@@ -30,7 +30,7 @@ body {
 }
 
 .img {
-    background-image: url(\image-equilibrium.jpg);
+    background-image: url(/image-equilibrium.jpg);
     background-position: center;
     background-size: 300px 300px;
     width: 300px;
@@ -39,7 +39,7 @@ body {
 }
 
 .icon-view {
-    background-image: url(\icon-view.svg);
+    background-image: url(/icon-view.svg);
     background-color: hsla(178, 100%, 50%, 50%);
     background-position: center;
     background-size: 50px 50px;
