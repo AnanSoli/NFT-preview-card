@@ -54,6 +54,7 @@ body {
 .icon-view:hover {
     opacity: 1;
     cursor: pointer;
+    transition: 1s;
 }
 
 h2 {
@@ -68,6 +69,7 @@ h2 {
 h2:hover {
     color: hsl(178, 100%, 50%);
     cursor: pointer;
+    transition: 1s;
 }
 
 .p-one {
@@ -108,6 +110,7 @@ h2:hover {
 #name:hover {
     color: hsl(178, 100%, 50%);
     cursor: pointer;
+    transition: 1s;
 }
 
 hr {
@@ -157,6 +160,7 @@ hr {
 
 .attribution a:hover {
     color: hsl(178, 100%, 50%);
+    transition: 1s;
 }
 
 /* For mobile phones: */
