@@ -22,9 +22,8 @@ Users should be able to:
 - See hover states for interactive elements.
 
 ### Screenshot
-
-(./screenshots/NFT-card-Mobile-Design.png)
 This screenshoot shows how the design should look like on a mobile device size.
+![image](https://user-images.githubusercontent.com/86473646/146690654-41893558-d36c-4dc9-8823-34b4cbcf7975.png)
 
 
 ### Links
