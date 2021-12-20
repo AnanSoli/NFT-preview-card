@@ -28,7 +28,7 @@ This screenshoot shows how the design should look like on a mobile device size.
 
 
 ### Links
-- Live Site URL:(https://AnanSoli.github.io.git)
+- Live Site URL:(https://AnanSoli.github.io)
 
 
 ### Built with
