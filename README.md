@@ -28,7 +28,7 @@ This screenshoot shows how the design should look like on a mobile device size.
 
 
 ### Links
-- Live Site URL:(https://AnanSoli.github.io)
+- Live Site URL:( https://anansoli.github.io/NFT-preview-card/)
 
 
 ### Built with
